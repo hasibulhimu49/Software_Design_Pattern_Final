@@ -39,12 +39,8 @@ Each task includes Java code, UML diagrams, and explanations of the patterns use
   Simplifies interaction by providing a single interface (`HomeTheaterFacade`) to control multiple subsystems  
   such as Projector, Lights, DVD Player, Screen, etc.
 
-### 📁 Files Included
-- UML diagram  
-- Subsystem classes (Projector, Lights, DVDPlayer, etc.)  
-- Command classes  
-- `HomeTheaterFacade.java`  
-- Demo runner
+### UML diagram 
+<img src="https://github.com/hasibulhimu49/Software_Design_Pattern_Final/blob/main/SoftwareDesignPattern_HomeTheater2/HomeTheater.jpg" alt="DFD" width="600" />
 
 ---
 
