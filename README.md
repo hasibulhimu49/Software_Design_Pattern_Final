@@ -47,7 +47,8 @@ Each task includes Java code, UML diagrams, and explanations of the patterns use
 ## 📌 Task 3 – Meme Creation
 
 A fun meme created based on university life and design pattern stress.  
-The meme image is included in the repository.
+
+<img src="https://github.com/hasibulhimu49/Software_Design_Pattern_Final/blob/main/Me%20in%20first%26last%20semester.jpg" alt="DFD" width="600" />
 
 ---
 
